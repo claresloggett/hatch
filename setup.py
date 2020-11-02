@@ -4,7 +4,7 @@ from distutils.core import setup
 
 LONG_DESCRIPTION = \
 '''
-Plot taular data on the comand line.
+Plot tabular data on the comand line.
 '''
 
 
